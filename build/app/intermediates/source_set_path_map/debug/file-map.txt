@@ -1,0 +1,12 @@
+com.example.raia.app-jetified-window-1.0.0-beta04-0 /home/sunwukong/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.raia.app-jetified-annotation-experimental-1.1.0-1 /home/sunwukong/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.raia.app-core-1.6.0-2 /home/sunwukong/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.raia.app-jetified-window-java-1.0.0-beta04-3 /home/sunwukong/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.raia.app-debug-4 /home/sunwukong/Flutter_Projects/raia/android/app/src/debug/res
+com.example.raia.app-main-5 /home/sunwukong/Flutter_Projects/raia/android/app/src/main/res
+com.example.raia.app-pngs-6 /home/sunwukong/Flutter_Projects/raia/build/app/generated/res/pngs/debug
+com.example.raia.app-resValues-7 /home/sunwukong/Flutter_Projects/raia/build/app/generated/res/resValues/debug
+com.example.raia.app-rs-8 /home/sunwukong/Flutter_Projects/raia/build/app/generated/res/rs/debug
+com.example.raia.app-mergeDebugResources-9 /home/sunwukong/Flutter_Projects/raia/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.raia.app-mergeDebugResources-10 /home/sunwukong/Flutter_Projects/raia/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.raia.app-merged_res-11 /home/sunwukong/Flutter_Projects/raia/build/app/intermediates/merged_res/debug
