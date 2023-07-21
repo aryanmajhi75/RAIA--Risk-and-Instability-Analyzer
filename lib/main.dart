@@ -3,11 +3,11 @@ import 'package:raia/customWidgets/CustomBottomNavbar.dart';
 import 'package:raia/theme.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Raia());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class Raia extends StatelessWidget {
+  const Raia({super.key});
 
   @override
   Widget build(BuildContext context) {
